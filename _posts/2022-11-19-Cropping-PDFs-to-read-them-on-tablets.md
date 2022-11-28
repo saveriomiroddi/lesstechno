@@ -2,7 +2,7 @@
 layout: post
 title: "Cropping PDFs to read them on tablets"
 tags: [ebooks,tablets,tools]
-last_modified_at: 2022-11-19 16:22:21
+last_modified_at: 2022-11-28 11:50:12
 ---
 
 I read a significant number of books on my tablet. Cropping is a very important (fundamental, I'd say) tool in this context, since reading devices, most of the times, are smaller than the physical form of the book being read.
@@ -11,12 +11,12 @@ I've done a lot of experiments, and these are my results.
 
 Content:
 
-- [General Information](/Cropping-PDFs-to-read-them-on-tablets#general-information)
-- [Linux Programs](/Cropping-PDFs-to-read-them-on-tablets#linux-programs)
-- [Online services](/Cropping-PDFs-to-read-them-on-tablets#online-services)
-- [Android apps](/Cropping-PDFs-to-read-them-on-tablets#android-apps)
-- [iPadOS apps](/Cropping-PDFs-to-read-them-on-tablets#ipados-apps)
-- [Conclusion](/Cropping-PDFs-to-read-them-on-tablets#conclusion)
+- [General Information](/lesstechno/Cropping-PDFs-to-read-them-on-tablets#general-information)
+- [Linux Programs](/lesstechno/Cropping-PDFs-to-read-them-on-tablets#linux-programs)
+- [Online services](/lesstechno/Cropping-PDFs-to-read-them-on-tablets#online-services)
+- [Android apps](/lesstechno/Cropping-PDFs-to-read-them-on-tablets#android-apps)
+- [iPadOS apps](/lesstechno/Cropping-PDFs-to-read-them-on-tablets#ipados-apps)
+- [Conclusion](/lesstechno/Cropping-PDFs-to-read-them-on-tablets#conclusion)
 
 ## General Information
 
