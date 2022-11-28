@@ -2,18 +2,18 @@
 layout: post
 title: "Choosing components to optimally charge a laptop via USB-C"
 tags: [lenovo,hardware,usb-c,yoga]
-last_modified_at: 2022-11-16 12:48:21
+last_modified_at: 2022-11-28 11:53:52
 ---
 
 I thought that buying a good USB-C charger and cable would be enough to charge my laptop (a Lenovo Yoga 7 AMD Gen 7), but turns out this is not enough. In this brief article I'll describe the experience and my suggestions.
 
 Content:
 
-- [Context](/Choosing-components-to-optimally-charge-a-laptop-via-USB-C#context)
-- [First attempt](/Choosing-components-to-optimally-charge-a-laptop-via-USB-C#first-attempt)
-- [Solution](/Choosing-components-to-optimally-charge-a-laptop-via-USB-C#solution)
-- [Other devices](/Choosing-components-to-optimally-charge-a-laptop-via-USB-C#other-devices)
-- [Conclusion](/Choosing-components-to-optimally-charge-a-laptop-via-USB-C#conclusion)
+- [Context](/lesstechno/Choosing-components-to-optimally-charge-a-laptop-via-USB-C#context)
+- [First attempt](/lesstechno/Choosing-components-to-optimally-charge-a-laptop-via-USB-C#first-attempt)
+- [Solution](/lesstechno/Choosing-components-to-optimally-charge-a-laptop-via-USB-C#solution)
+- [Other devices](/lesstechno/Choosing-components-to-optimally-charge-a-laptop-via-USB-C#other-devices)
+- [Conclusion](/lesstechno/Choosing-components-to-optimally-charge-a-laptop-via-USB-C#conclusion)
 
 ## Context
 
@@ -62,5 +62,5 @@ If one needs to charge a high-powered device, make sure to buy a PD 3.0 charger 
 
 The configuration the worked in my case is:
 
-- [Anker 715 Charger (Nano II 65W)](https://www.anker.com/products/a2663?variant=41093880250518) and
-- [Ugreen 100W USB C to USB C cable](https://eu.ugreen.com/products/ugreen-100w-usb-c-to-usb-c-cable).
+- [Anker 715 Charger (Nano II 65W)](/lesstechno/Choosing-components-to-optimally-charge-a-laptop-via-USB-Chttps://www.anker.com/products/a2663?variant=41093880250518) and
+- [Ugreen 100W USB C to USB C cable](/lesstechno/Choosing-components-to-optimally-charge-a-laptop-via-USB-Chttps://eu.ugreen.com/products/ugreen-100w-usb-c-to-usb-c-cable).
